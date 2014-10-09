@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="origin" fetch="https://github.com/artloder"/>
+
+  <default remote="origin" revision="master"/>
+
+  <project path="docopt" name="docopt"/>
+  <project path="icanhasfile" name="icanhasfile"/>
+  <project path="jline2" name="jline2"/>
+  <project path="pep257" name="pep257"/>
+  <project path="python-guide" name="python-guide"/>
+
+</manifest>
